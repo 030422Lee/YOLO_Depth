@@ -27,3 +27,10 @@ Make sure to install the following dependencies:
     pip install python3-pcl
     pip install pyrealsense2
     pip install ultralytics
+
+![image](https://github.com/user-attachments/assets/6ae0d3d5-f682-4271-b6be-dfbd48320d24)
+
+
+https://github.com/user-attachments/assets/e8c1c63a-7312-494d-8c04-03681b1c9bc2
+
+
